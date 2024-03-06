@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a745429.css",
+    "main.js": "/static/js/main.5bcd33c1.js",
+    "static/js/453.6f4065ad.chunk.js": "/static/js/453.6f4065ad.chunk.js",
+    "static/media/StylizedPortraitLogo.png": "/static/media/StylizedPortraitLogo.30a5318ba93044b8e4ef.png",
+    "static/media/pexels-juan-pablo-serrano-arenas-1242348.jpg": "/static/media/pexels-juan-pablo-serrano-arenas-1242348.d0da984dfd6b1dd5378c.jpg",
+    "static/media/OpenSans-VariableFont.ttf": "/static/media/OpenSans-VariableFont.19ba637387f1d6142f55.ttf",
+    "static/media/university_of_tasmania.png": "/static/media/university_of_tasmania.611bc6d48fdb58cfb562.png",
+    "static/media/corrupted_beats.png": "/static/media/corrupted_beats.7901626d0b365696f298.png",
+    "static/media/hobart_college.png": "/static/media/hobart_college.b76039f8d9fb5f437343.png",
+    "static/media/coombabah_high_school.png": "/static/media/coombabah_high_school.bed998a7c2acf55613de.png",
+    "static/media/kumitecho.png": "/static/media/kumitecho.b549fad1886783decdeb.png",
+    "static/media/JamburLogo.png": "/static/media/JamburLogo.c4a65fed9bc48d44d343.png",
+    "static/media/residents_of_chaos.png": "/static/media/residents_of_chaos.632891e5b9914d2253f8.png",
+    "static/media/JamburLogoWhite.png": "/static/media/JamburLogoWhite.fbc28d2047e7e9b31528.png",
+    "static/media/vr_lifeboat.png": "/static/media/vr_lifeboat.8180a5667f7f03195263.png",
+    "static/media/data_processing_tools.png": "/static/media/data_processing_tools.b195880f99492c782e86.png",
+    "static/media/albion_helper.png": "/static/media/albion_helper.72b0f64e48b560c53007.png",
+    "static/media/jamburonline.png": "/static/media/jamburonline.243388789f3332ebe4cd.png",
+    "static/media/vr.png": "/static/media/vr.55a7c79eca963294b8ee.png",
+    "static/media/trophy.png": "/static/media/trophy.53ecf4fc3ce0be6574d1.png",
+    "index.html": "/index.html",
+    "main.1a745429.css.map": "/static/css/main.1a745429.css.map",
+    "main.5bcd33c1.js.map": "/static/js/main.5bcd33c1.js.map",
+    "453.6f4065ad.chunk.js.map": "/static/js/453.6f4065ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a745429.css",
+    "static/js/main.5bcd33c1.js"
+  ]
+}
